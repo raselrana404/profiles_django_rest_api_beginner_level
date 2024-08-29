@@ -10,6 +10,8 @@ __pycache__/
 # C extensions
 *.so
 
+steps.txt
+
 # Distribution / packaging
 .Python
 build/
